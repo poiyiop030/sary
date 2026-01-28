@@ -6,7 +6,7 @@ import java.util.*;
 ====================================================
         Data Structure - Assignment 2
         Name   : Mohammed Sari
-        Group  : (اكتب مجموعتك هنا)
+        Group  : g2 
 ====================================================
 
 
